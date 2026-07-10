@@ -1,0 +1,13 @@
+site_name: Philip Clark Technical Writing Portfolio
+site_description: Technical Writing Portfolio
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
