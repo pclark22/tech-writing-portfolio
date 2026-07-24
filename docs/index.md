@@ -8,5 +8,6 @@ Senior Technical Writer | Software, API, Security, and Compliance Documentation 
 <a href="samples/install_Guide.pdf" target="_blank">Installation Guide</a>  
 <a href="samples/case_study.pdf" target="_blank">Case Study</a>  
 <a href="samples/white_paper.pdf" target="_blank">White Paper</a>
+<a href="samples/AWS_Essentials_en.pdf" target="_blank">AWS Essentials SDK: Setup and Config</a>
 
 <!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org). -->
