@@ -28,7 +28,7 @@ Wrote training and user documentation for Compliatric's HRSA compliance manageme
 **Senior Technical Writer, Banjo...2020**  
 Documented Banjo's system architecture through technical drawings and supporting content. Wrote and edited compliance documentation. Worked with the documentation team and engineering to standardize methodologies, tools, processes, and style.  
 
-**Senior Copywriter, Method Communications...2018–2019**. 
+**Senior Copywriter, Method Communications...2018–2019**   
 Partnered with PR professionals and clients to create marketing and PR collateral. Wrote press releases, thought leadership articles, bylines, and executive biographies. Contributed to a department style and formatting guide.  
 
 **Senior Technical Writer (Owner), Clark Professional Writing Services...2018**  
