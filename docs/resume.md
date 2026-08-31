@@ -22,7 +22,7 @@ Created user, installation, and administrator guides for several AppSec products
 **Senior Technical Writer, Packsize...2020–2022**  
 Created a broad range of technical documentation, including user manuals, installation and calibration guides, maintenance manuals, SOPs, and ECNs. Partnered with QA and HR to define company procedures and standards. Established the foundation for a scalable documentation team by creating a house style guide, designing templates, improving information architecture, training writers, and implementing production processes. 
 
-**Senior Technical Writer/Team Lead, Compliatric...2020**  
+**Senior Technical Writer / Team Lead, Compliatric...2020**  
 Wrote training and user documentation for Compliatric's HRSA compliance management software. Designed and implemented new templates and processes for customer-facing documentation. Managed resourcing and timelines for two remote writers. 
 
 **Senior Technical Writer, Banjo...2020**  
@@ -46,16 +46,16 @@ Authored user manuals, installation guides, and online help for GE Healthcare so
 **Technical Writer (Senior Associate), Novell, Inc....2003–2008**  
 Created a variety of user documentation, including online help, methodology documents, marketing collateral, white papers, and content for the corporate website.  
 
-**Senior Technical Writer / Team Lead, Financial Fusion, Inc....1999–2003**  
+**Director of Documentation, Financial Fusion, Inc....1999–2003**  
 Led a team of eight writers in creating product user guides, online help, and tutorials for banking software. Managed documentation projects, implemented documentation processes, administered documentation and project management tools, and hired new writers. Owned the end-to-end documentation lifecycle.  
 
 **Senior Editor, Marketing, Ameritech Library Services...1995–1998**    
 Managed a team of editors, writers, and graphic designers in producing a variety of marketing collateral. Authored feature articles, ad copy, press releases, company policy documents, executive speeches, and content for other company publications. Edited all customer-facing documentation. Set department style and formatting standards.  
 
 **Earlier Career...1991–1995**  
-- Technical Communications Specialist, Dynix — Authored user manuals and reference documentation, partnered with engineers during development, and delivered on-site training.  
-- Technical Writer, Unisys Corp. — Created user manuals and contributed to product planning and release schedules.  
-- Computer Technician, Salt Lake Community College Library — Configured library computers, assisted with IT system maintenance tasks, and trained staff on library software applications.
+- Technical Communications Specialist, Dynix. Authored user manuals and reference documentation, partnered with engineers during development, and delivered on-site training.  
+- Technical Writer, Unisys Corp. Created user manuals and contributed to product planning and release schedules.  
+- Computer Technician, Salt Lake Community College Library. Configured library computers, assisted with IT system maintenance tasks, and trained staff on library software applications.
 
 ### Education  
 - Bachelor of Arts in English — University of Utah
