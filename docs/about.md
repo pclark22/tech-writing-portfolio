@@ -1,4 +1,4 @@
-Senior Technical Writer with 30+ years of experience creating clear, accurate documentation across multiple fields—application security (AppSec), networking, IoT, healthcare, banking software, compliance, and industrial machinery.
+Senior Technical Writer with extensive experience creating clear, accurate documentation across multiple fields—application security (AppSec), networking, IoT, healthcare, banking software, compliance, and industrial machinery.
 
 I specialize in translating complex technical ideas into effective documentation that serves end users, engineers, executives, auditors, and customers. My technical expertise includes DITA, docs-as-code (Git, GitHub, GitLab), OpenAPI/Swagger-based REST API documentation, Oxygen XML Editor, FrameMaker, InDesign, single-source publishing, and translation workflow management. I also use a variety of AI tools—including ChatGPT, Claude Code, Gemini, Rovo, and Microsoft Copilot—to improve efficiency while maintaining technical accuracy.
 

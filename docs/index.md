@@ -1,7 +1,7 @@
 # Philip K Clark, Senior Technical Writer  
 *When writing matters.*  
 
-Senior Technical Writer | Software, API, Security, and Compliance Documentation | DITA, Docs-as-Code | 30+ Experience
+Senior Technical Writer | Software, API, Security, and Compliance Documentation | DITA, Docs-as-Code
 
 ## Writing Samples  
 <a href="samples/DOF_Connectivity_Programmers_Guide_C.pdf" target="_blank">DOF Connectivity: C Programmer's Guide</a>  
